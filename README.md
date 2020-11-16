@@ -1,6 +1,10 @@
+
 # GESPRO_PracticaGestionTareas_2021
 Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos (3º de G. en Ing. Informática) en el curso académico 2020/21. Universidad de Burgos.
 
-Para completar la primera práctica obligatoria sobre gestión de tareas en metodología ágil, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositiorio.
+Este fork del repositorio original es nuestra versión para la primera práctica obligatoria de la asignatura de Gestión de Proyectos.
 
-**Incluid debajo el nombre de los miembros del grupo:**
+**Alumnos 2020/2021:**
+[Áxel Rubio González   -   arg1016](https://github.com/arg1016)
+[Iván Ruiz Gázquez    -   irg1008](https://github.com/irg1008)
+[Jorge Ruiz Gómez   -   jrg1011](https://github.com/jrg1011)
