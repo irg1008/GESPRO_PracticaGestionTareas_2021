@@ -5,6 +5,7 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 Este fork del repositorio original es nuestra versión para la primera práctica obligatoria de la asignatura de Gestión de Proyectos.
 
 **Alumnos 2020/2021:**
+
 [Áxel Rubio González   -   arg1016](https://github.com/arg1016)
 
 [Iván Ruiz Gázquez    -   irg1008](https://github.com/irg1008)
